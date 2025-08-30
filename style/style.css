@@ -1,0 +1,25 @@
+
+* {
+    margin: 0 auto;
+  text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    padding: 5%;
+    align-items: center;
+    /* background-color: #CCCCFF ; */
+}
+
+footer{
+    /* background-color: antiquewhite; */
+    padding-bottom: 5%;
+}
+
+main{
+    padding-top: 5%;
+}
+
+.image{
+    border-radius: 5px;
+}
